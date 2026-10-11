@@ -1,7 +1,7 @@
 /* ─── Translations ──────────────────────────────────────────────────────────── */
 const i18n = {
   en: {
-    title:              'ATTA',
+    title:              'Atta',
     nav_film:           'Film',
     nav_story:          'Gallery',
     nav_support:        'Support',
@@ -29,7 +29,7 @@ const i18n = {
     footer_press:       'Press',
   },
   ar: {
-    title:              'ATTA',
+    title:              'Atta',
     nav_film:           'الفيلم',
     nav_story:          'معرض الصور',
     nav_support:        'الدعم',
@@ -57,7 +57,7 @@ const i18n = {
     footer_press:       'الصحافة',
   },
   fr: {
-    title:              'ATTA',
+    title:              'Atta',
     nav_film:           'Film',
     nav_story:          'Galerie',
     nav_support:        'Soutien',
@@ -85,7 +85,7 @@ const i18n = {
     footer_press:       'Presse',
   },
   he: {
-    title:              'ATTA',
+    title:              'Atta',
     nav_film:           'הסרט',
     nav_story:          'גלריה',
     nav_support:        'תמיכה',
