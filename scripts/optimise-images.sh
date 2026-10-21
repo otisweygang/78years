@@ -28,7 +28,6 @@ CREDITS=(
   "credits/jeff-halper.jpg"
   "credits/bruno-sorrentino.jpg"
   "credits/uri-fruchtmann.jpg"
-  "credits/george-carey.jpg"
 )
 
 convert_to_webp() {
